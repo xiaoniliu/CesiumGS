@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import CesiumGS from '@/pages/cesium/CesiumGS.vue'
+import CesiumGS from '@/pages/CesiumGS.vue'
 
 Vue.use(Router)
 
